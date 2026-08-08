@@ -77,7 +77,7 @@ Sitio personal con animaciones, sección de habilidades y showcase de proyectos.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=braianmaza01&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B85F5&icon_color=6C63FF&text_color=F2F2F5&locale=es" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=braianmaza01&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0F&title_color=8B85F5&icon_color=6C63FF&text_color=F2F2F5&locale=es" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianmaza01&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=8B85F5&text_color=F2F2F5&locale=es" height="165"/>
 
 </div>
