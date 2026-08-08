@@ -60,6 +60,8 @@ Sistema de gestión de gimnasios con notificaciones automáticas por **WhatsApp*
 
 `Node.js` `Express` `MongoDB` `WhatsApp API`
 
+🔗 **[Ver demo](https://fitmanager-gym.netlify.app/login)** 
+
 ---
 
 ### 🌐 Portfolio Personal
