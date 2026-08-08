@@ -89,8 +89,7 @@ Sitio personal con animaciones, sección de habilidades y showcase de proyectos.
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=F2F2F5)](https://braian-dev.netlify.app)
 [![Instagram](https://img.shields.io/badge/@braian.webdev-6C63FF?style=for-the-badge&logo=instagram&logoColor=F2F2F5)](https://instagram.com/braian.webdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=F2F2F5)](https://www.linkedin.com/in/braian-maza-525b1230a/) 
-[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=F2F2F5)](braianmaza01@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=F2F2F5)](mailto:braianmaza01@gmail.com)
 </div>
 
 <div align="center">
